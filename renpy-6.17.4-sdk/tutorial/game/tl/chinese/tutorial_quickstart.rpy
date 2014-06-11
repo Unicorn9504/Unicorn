@@ -1,0 +1,664 @@
+﻿# TODO: Translation updated at 2014-04-18 09:28
+
+# game/tutorial_quickstart.rpy:20
+translate chinese tutorial_dialogue_f6d3ddd3:
+
+    # e "Probably the best way to learn Ren'Py is to see it in action. In this tutorial, I'll be showing you some of the things Ren'Py can do, and also showing you how to do them."
+    e ""
+
+# game/tutorial_quickstart.rpy:25
+translate chinese tutorial_dialogue_49c65906:
+
+    # e "Code examples will show up in a window like the one above. You'll need to click outside of the example window in order to advance the tutorial."
+    e ""
+
+# game/tutorial_quickstart.rpy:27
+translate chinese tutorial_dialogue_5c2cb6f9:
+
+    # e "When an example is bigger than the screen, you can scroll around in it using the mouse wheel or by simply dragging the mouse."
+    e ""
+
+# game/tutorial_quickstart.rpy:32
+translate chinese tutorial_dialogue_3528a1fe:
+
+    # e "To create a new project, you can click New Project in the Ren'Py launcher."
+    e ""
+
+# game/tutorial_quickstart.rpy:34
+translate chinese tutorial_dialogue_3ef9231c:
+
+    # e "If it's your first time making a Ren'Py game, you'll be asked to pick a directory to store your projects in."
+    e ""
+
+# game/tutorial_quickstart.rpy:36
+translate chinese tutorial_dialogue_15734bf9:
+
+    # e "You'll then be asked for the name of the project, and also to choose a theme for the interface."
+    e ""
+
+# game/tutorial_quickstart.rpy:38
+translate chinese tutorial_dialogue_a12675cc:
+
+    # e "Once that's done, Ren'Py will automatically create a directory an fill it with the files needed to make a project."
+    e ""
+
+# game/tutorial_quickstart.rpy:40
+translate chinese tutorial_dialogue_66d639af:
+
+    # e "If you have Java installed, you'll be able to click Edit Script to open your project's script."
+    e ""
+
+# game/tutorial_quickstart.rpy:42
+translate chinese tutorial_dialogue_f0d66410:
+
+    # e "Let's see the simplest possible Ren'Py game."
+    e ""
+
+# game/tutorial_quickstart.rpy:48
+translate chinese tutorial_dialogue_3e6b0068:
+
+    # "Wow, It's really really dark in here."
+    ""
+
+# game/tutorial_quickstart.rpy:50
+translate chinese tutorial_dialogue_5072a404:
+
+    # "Lucy" "Better watch out. You don't want to be eaten by a Grue."
+    "Lucy" ""
+
+# game/tutorial_quickstart.rpy:59
+translate chinese tutorial_dialogue_871db44f:
+
+    # e "I'll show you the code for that example."
+    e ""
+
+# game/tutorial_quickstart.rpy:61
+translate chinese tutorial_dialogue_6943c36d:
+
+    # e "This code demonstrates two kinds of Ren'Py statements, labels and say statements."
+    e ""
+
+# game/tutorial_quickstart.rpy:63
+translate chinese tutorial_dialogue_bc7ec147:
+
+    # e "The first line is a label statement. The label statement is used to give a name to a place in the program."
+    e ""
+
+# game/tutorial_quickstart.rpy:65
+translate chinese tutorial_dialogue_b20db833:
+
+    # e "In this case, we're naming a place \"start\". The start label is special, as it marks the place a game begins running."
+    e ""
+
+# game/tutorial_quickstart.rpy:67
+translate chinese tutorial_dialogue_b0afbe96:
+
+    # e "The next line is a simple say statement. It consists of a string beginning with a double-quote, and ending at the next double-quote."
+    e ""
+
+# game/tutorial_quickstart.rpy:69
+translate chinese tutorial_dialogue_628c9e4c:
+
+    # e "Special characters in strings can be escaped with a backslash. To include \" in a string, we have to write \\\"."
+    e ""
+
+# game/tutorial_quickstart.rpy:74
+translate chinese tutorial_dialogue_3e6b0068_1:
+
+    # "Wow, It's really really dark in here."
+    ""
+
+# game/tutorial_quickstart.rpy:82
+translate chinese tutorial_dialogue_d7f0b5b7:
+
+    # e "When Ren'Py sees a single string on a line by itself, it uses the narrator to say that string. So a single string can be used to express a character's thoughts."
+    e ""
+
+# game/tutorial_quickstart.rpy:87
+translate chinese tutorial_dialogue_5072a404_1:
+
+    # "Lucy" "Better watch out. You don't want to be eaten by a Grue."
+    "Lucy" ""
+
+# game/tutorial_quickstart.rpy:95
+translate chinese tutorial_dialogue_9dd2d543:
+
+    # e "When we have two strings separated by a space, the first is used as the character's name, and the second is what the character is saying."
+    e ""
+
+# game/tutorial_quickstart.rpy:97
+translate chinese tutorial_dialogue_64ffe685:
+
+    # e "This two-argument form of the say statement is used for dialogue, where a character is speaking out loud."
+    e ""
+
+# game/tutorial_quickstart.rpy:99
+translate chinese tutorial_dialogue_97a33275:
+
+    # e "If you'd like, you can run this game yourself by erasing everything in your project's script.rpy file, and replacing it with the code in the box above."
+    e ""
+
+# game/tutorial_quickstart.rpy:101
+translate chinese tutorial_dialogue_c5e70d7e:
+
+    # e "Be sure to preserve the spacing before lines. That's known as indentation, and it's used to help Ren'Py group lines of script into blocks."
+    e ""
+
+# game/tutorial_quickstart.rpy:106
+translate chinese tutorial_dialogue_90719f73:
+
+    # e "Using a string for a character's name is inconvenient, for two reasons."
+    e ""
+
+# game/tutorial_quickstart.rpy:108
+translate chinese tutorial_dialogue_910f286a:
+
+    # e "The first is that's it's a bit verbose. While typing \"Lucy\" isn't so bad, imagine if you had to type \"Eileen Richardson\" thousands of times."
+    e ""
+
+# game/tutorial_quickstart.rpy:110
+translate chinese tutorial_dialogue_9c9d59c2:
+
+    # e "The second is that it doesn't leave any place to put styling, which can change the look of a character."
+    e ""
+
+# game/tutorial_quickstart.rpy:112
+translate chinese tutorial_dialogue_2a2d1e51:
+
+    # e "To solve these problems, Ren'Py lets you define Characters."
+    e ""
+
+# game/tutorial_quickstart.rpy:116
+translate chinese tutorial_dialogue_16e8c5fd:
+
+    # e "Here's an example Character definition. It begins with the word \"define\". That tells Ren'Py that we are defining something."
+    e ""
+
+# game/tutorial_quickstart.rpy:118
+translate chinese tutorial_dialogue_34fe5aa0:
+
+    # e "Define is followed by a short name for the character, like \"l\". We'll be able to use that short name when writing dialogue."
+    e ""
+
+# game/tutorial_quickstart.rpy:120
+translate chinese tutorial_dialogue_67f90201:
+
+    # e "This is followed by an equals sign, and the thing that we're defining. In this case, it's a Character."
+    e ""
+
+# game/tutorial_quickstart.rpy:122
+translate chinese tutorial_dialogue_4e454a89:
+
+    # e "On the first line, the character's name is given to be \"Lucy\", and her name will be drawn a reddish color."
+    e ""
+
+# game/tutorial_quickstart.rpy:124
+translate chinese tutorial_dialogue_db11f026:
+
+    # e "These short names are case-sensitive. Capital L is a different name from lower-case l, so you'll need to be careful about that."
+    e ""
+
+# game/tutorial_quickstart.rpy:128
+translate chinese tutorial_dialogue_1d161320:
+
+    # e "Now that we have a character defined, we can use it to say dialogue."
+    e ""
+
+# game/tutorial_quickstart.rpy:134
+translate chinese tutorial_dialogue_3710169c:
+
+    # l "Why are you trying to put words into my mouth? And who are you calling \"it\"?"
+    l ""
+
+# game/tutorial_quickstart.rpy:136
+translate chinese tutorial_dialogue_6d463776:
+
+    # l "What's more, what are you going to do about the Grue problem? Are you just going to leave me here?"
+    l ""
+
+# game/tutorial_quickstart.rpy:145
+translate chinese tutorial_dialogue_023bcd31:
+
+    # e "Here's the full game, including the two new lines of dialogue, both of which use the Character we defined to say dialogue."
+    e ""
+
+# game/tutorial_quickstart.rpy:147
+translate chinese tutorial_dialogue_48bb9547:
+
+    # e "The one-argument form of the say statement is unchanged, but in the two-argument form, instead of the first string we can use a short name."
+    e ""
+
+# game/tutorial_quickstart.rpy:149
+translate chinese tutorial_dialogue_56a9936f:
+
+    # e "When this say statement is run, Ren'Py will look up the short name, which is really a Python variable. It will then use the associated Character to show the dialogue."
+    e ""
+
+# game/tutorial_quickstart.rpy:151
+translate chinese tutorial_dialogue_d5984a21:
+
+    # e "The Character object controls who is speaking, the color of their name, and many other properties of the dialogue."
+    e ""
+
+# game/tutorial_quickstart.rpy:155
+translate chinese tutorial_dialogue_a5bcac8b:
+
+    # e "Since the bulk of a visual novel is dialogue, we've tried to make it as easy to write as possible."
+    e ""
+
+# game/tutorial_quickstart.rpy:157
+translate chinese tutorial_dialogue_6b9a42d0:
+
+    # e "Hopefully, by allowing the use of short names for characters, we've succeeded."
+    e ""
+
+# game/tutorial_quickstart.rpy:163
+translate chinese tutorial_images_e09ac970:
+
+    # e "A visual novel isn't much without images. So let's add some images to our little game."
+    e ""
+
+# game/tutorial_quickstart.rpy:165
+translate chinese tutorial_images_a664a8bc:
+
+    # e "Before we can show images, we must first put the image files into the game directory."
+    e ""
+
+# game/tutorial_quickstart.rpy:167
+translate chinese tutorial_images_1d6236ee:
+
+    # e "The easiest way to open the game directory is to click the Game Directory button in the Ren'Py launcher."
+    e ""
+
+# game/tutorial_quickstart.rpy:169
+translate chinese tutorial_images_e41986f0:
+
+    # e "All of the image files we'll be using here are in the game directory, under the tutorial directory, under the Ren'Py directory."
+    e ""
+
+# game/tutorial_quickstart.rpy:173
+translate chinese tutorial_images_0b9f7257:
+
+    # e "Here are some sample image definitions. They should be placed at the start of the file, without any indentation."
+    e ""
+
+# game/tutorial_quickstart.rpy:175
+translate chinese tutorial_images_5d67054c:
+
+    # e "The image statement begins with the keyword \"image\", which is followed by an image name, a space-separated list of words."
+    e ""
+
+# game/tutorial_quickstart.rpy:177
+translate chinese tutorial_images_4c9a51ec:
+
+    # e "The first word in the image name is the image tag. For the first image the tag is \"bg\", and for the others, it's \"lucy\"."
+    e ""
+
+# game/tutorial_quickstart.rpy:179
+translate chinese tutorial_images_bda71aa3:
+
+    # e "This is followed by an equals sign, and a string giving an image name."
+    e ""
+
+# game/tutorial_quickstart.rpy:181
+translate chinese tutorial_images_6d88aaa3:
+
+    # e "A string giving an image name is only one of the dozens of kinds of displayable that Ren'Py supports."
+    e ""
+
+# game/tutorial_quickstart.rpy:185
+translate chinese tutorial_images_76b954de:
+
+    # e "Let's see what those look like in the game."
+    e ""
+
+# game/tutorial_quickstart.rpy:192
+translate chinese tutorial_images_f04e72ea:
+
+    # l "Now that the lights are on, we don't have to worry about Grues anymore."
+    l ""
+
+# game/tutorial_quickstart.rpy:196
+translate chinese tutorial_images_d77ffa1c:
+
+    # l "But what's the deal with me being in a cave? Eileen gets to be out in the sun, and I'm stuck here!"
+    l ""
+
+# game/tutorial_quickstart.rpy:205
+translate chinese tutorial_images_6c0c938b:
+
+    # e "Here's the script for that scene. Notice how it includes two new statements, the scene and show statement."
+    e ""
+
+# game/tutorial_quickstart.rpy:207
+translate chinese tutorial_images_1a4660b9:
+
+    # e "The scene statement clears the screen, and then adds a background image."
+    e ""
+
+# game/tutorial_quickstart.rpy:209
+translate chinese tutorial_images_672c8cb8:
+
+    # e "The show statement adds a background image on top of all the other images on the screen."
+    e ""
+
+# game/tutorial_quickstart.rpy:211
+translate chinese tutorial_images_2fc7baee:
+
+    # e "If there was already an image with the same tag, the new image is used to replace the old one."
+    e ""
+
+# game/tutorial_quickstart.rpy:213
+translate chinese tutorial_images_802825f2:
+
+    # e "Changes to the list of shown images take place instantly, so in the example, the user won't see the background by itself."
+    e ""
+
+# game/tutorial_quickstart.rpy:215
+translate chinese tutorial_images_b246dfdd:
+
+    # e "The second show statement has an at clause, which gives a location on the screen. Common locations are left, right, and center, but you can define many more."
+    e ""
+
+# game/tutorial_quickstart.rpy:223
+translate chinese tutorial_images_bc4ae0c7:
+
+    # e "In this example, we show an image named logo base, and we show it at a user-defined position, logopos."
+    e ""
+
+# game/tutorial_quickstart.rpy:225
+translate chinese tutorial_images_9defda43:
+
+    # e "We also specify that it should be shown behind another image, in this case eileen. That's me."
+    e ""
+
+# game/tutorial_quickstart.rpy:233
+translate chinese tutorial_images_73d331f7:
+
+    # e "Finally, there's the hide statement, which hides the image with the given tag."
+    e ""
+
+# game/tutorial_quickstart.rpy:235
+translate chinese tutorial_images_f34f62d5:
+
+    # e "Since the show statement replaces an image, and the scene statement clears the scene, it's pretty rare to hide an image."
+    e ""
+
+# game/tutorial_quickstart.rpy:237
+translate chinese tutorial_images_e06fa53a:
+
+    # e "The main use is for when a character or prop leaves before the scene is over."
+    e ""
+
+# game/tutorial_quickstart.rpy:246
+translate chinese tutorial_transitions_9b8c714c:
+
+    # e "It can be somewhat jarring for the game to jump from place to place."
+    e ""
+
+# game/tutorial_quickstart.rpy:253
+translate chinese tutorial_transitions_3e290ea8:
+
+    # e "To help take some of edge off a change in scene, Ren'Py supports the use of transitions. Let's try that scene change again, but this time we'll use transitions."
+    e ""
+
+# game/tutorial_quickstart.rpy:268
+translate chinese tutorial_transitions_9c0a86c4:
+
+    # e "That's much smoother. Here's some example code showing how we include transitions in our game."
+    e ""
+
+# game/tutorial_quickstart.rpy:270
+translate chinese tutorial_transitions_3e490d40:
+
+    # e "It uses the with statement. The with statement causes the scene to transition from the last things shown to the things currently being shown."
+    e ""
+
+# game/tutorial_quickstart.rpy:272
+translate chinese tutorial_transitions_a43847df:
+
+    # e "It takes a transition as an argument. In this case, we're using the Dissolve transition. This transition takes as an argument the amount of time the dissolve should take."
+    e ""
+
+# game/tutorial_quickstart.rpy:274
+translate chinese tutorial_transitions_6fcee414:
+
+    # e "In this case, each transition takes half a second."
+    e ""
+
+# game/tutorial_quickstart.rpy:278
+translate chinese tutorial_transitions_033042cc:
+
+    # e "We can define a short name for a transition, using the define statement. Here, we're defining slowdissolve to be a dissolve that takes a whole second."
+    e ""
+
+# game/tutorial_quickstart.rpy:292
+translate chinese tutorial_transitions_0ba82f00:
+
+    # e "Once a transition has been given a short name, we can use it in our game."
+    e ""
+
+# game/tutorial_quickstart.rpy:296
+translate chinese tutorial_transitions_51ff9600:
+
+    # e "Ren'Py defines some transitions for you, like dissolve, fade, and move. For more complex or customized transitions, you'll have to define your own."
+    e ""
+
+# game/tutorial_quickstart.rpy:298
+translate chinese tutorial_transitions_a7905e16:
+
+    # e "If you're interested, check out the Transitions Gallery section of the tutorial."
+    e ""
+
+# game/tutorial_quickstart.rpy:304
+translate chinese tutorial_music_8b92efb7:
+
+    # e "Another important part of a visual novel or simulation game is the soundtrack."
+    e ""
+
+# game/tutorial_quickstart.rpy:306
+translate chinese tutorial_music_53910317:
+
+    # e "Ren'Py breaks sound up into channels. The channel a sound is played on determines if the sound loops, and if it is saved and restored with the game."
+    e ""
+
+# game/tutorial_quickstart.rpy:308
+translate chinese tutorial_music_a1e37712:
+
+    # e "When a sound is played on the music channel, it is looped, and it is saved when the game is saved."
+    e ""
+
+# game/tutorial_quickstart.rpy:310
+translate chinese tutorial_music_d9086d22:
+
+    # e "When the channel named sound is used, the sound is played once and then stopped. It isn't saved."
+    e ""
+
+# game/tutorial_quickstart.rpy:312
+translate chinese tutorial_music_45cd30df:
+
+    # e "The sounds themselves are stored in audio files. Ren'Py supports the Ogg Vorbis, mp3, mp2, and wav file formats."
+    e ""
+
+# game/tutorial_quickstart.rpy:314
+translate chinese tutorial_music_a776b6ad:
+
+    # e "Let's check out some of the commands that can effect the music channel."
+    e ""
+
+# game/tutorial_quickstart.rpy:324
+translate chinese tutorial_music_8b606a55:
+
+    # e "The play music command replaces the currently playing music, and replaces it with the named filename."
+    e ""
+
+# game/tutorial_quickstart.rpy:326
+translate chinese tutorial_music_18650fe7:
+
+    # e "If you specify the currently-playing song, it will restart it."
+    e ""
+
+# game/tutorial_quickstart.rpy:328
+translate chinese tutorial_music_413d91fc:
+
+    # e "If the optional fadeout clause is given, it will fade out the currently playing music before starting the new music."
+    e ""
+
+# game/tutorial_quickstart.rpy:330
+translate chinese tutorial_music_a282a0e3:
+
+    # e "The queue statement also adds music to the named channel, but it waits until the currently-playing song is finished before playing the new music."
+    e ""
+
+# game/tutorial_quickstart.rpy:339
+translate chinese tutorial_music_01ca6bad:
+
+    # e "The third statement is the stop statement. It stops the music playing on a channel. It too takes the fadeout clause."
+    e ""
+
+# game/tutorial_quickstart.rpy:348
+translate chinese tutorial_music_384937da:
+
+    # e "Unlike the music channel, playing a sound on the sound channel causes it to play only once."
+    e ""
+
+# game/tutorial_quickstart.rpy:359
+translate chinese tutorial_music_dc707e58:
+
+    # e "You can queue up multiple sounds on the sound channel, but they will only play one at a time."
+    e ""
+
+# game/tutorial_quickstart.rpy:366
+translate chinese tutorial_music_abcc2214:
+
+    # e "Ren'Py has separate mixers for sound, music, and voices, so the player can adjust them as he likes."
+    e ""
+
+# game/tutorial_quickstart.rpy:372
+translate chinese tutorial_menus_0426904b:
+
+    # e "Many visual novels require the player to make choices from in-game menus. These choices can add some challenge to the game, or adjust it to the player's preferences."
+    e ""
+
+# game/tutorial_quickstart.rpy:374
+translate chinese tutorial_menus_9c3b9154:
+
+    # e "Do you think your game will use menus?"
+    e ""
+
+# game/tutorial_quickstart.rpy:388
+translate chinese choice1_yes_f6d95df8:
+
+    # e "While creating a multi-path visual novel can be a bit more work, it can yield a unique experience."
+    e ""
+
+# game/tutorial_quickstart.rpy:396
+translate chinese choice1_no_72958b50:
+
+    # e "Games without menus are called kinetic novels, and there are dozens of them available to play."
+    e ""
+
+# game/tutorial_quickstart.rpy:408
+translate chinese choice1_done_acba9504:
+
+    # e "Here, you can see the code for that menu. If you scroll down, you can see the code we run after the menu."
+    e ""
+
+# game/tutorial_quickstart.rpy:410
+translate chinese choice1_done_d18afbdf:
+
+    # e "Menus are introduced by the menu statement. The menu statement takes an indented block, in which each line must contain a choice in quotes."
+    e ""
+
+# game/tutorial_quickstart.rpy:412
+translate chinese choice1_done_2865a192:
+
+    # e "The choices must end with a colon, as each choice has its own block of Ren'Py code, that is run when that choice is selected."
+    e ""
+
+# game/tutorial_quickstart.rpy:414
+translate chinese choice1_done_59cac95d:
+
+    # e "Here, each block jumps to a label. While you could put small amounts of Ren'Py code inside a menu label, it's probably good practice to usually jump to a bigger block of code."
+    e ""
+
+# game/tutorial_quickstart.rpy:416
+translate chinese choice1_done_2851a313:
+
+    # e "Scrolling down past the menu, you can see the labels that the menu jumps to. There are three labels here, named choice1_yes, choice1_no, and choice1_done."
+    e ""
+
+# game/tutorial_quickstart.rpy:418
+translate chinese choice1_done_ff761b03:
+
+    # e "When the first menu choice is picked, we jump to the choice1_yes, which runs two lines of script before jumping to choice1_done."
+    e ""
+
+# game/tutorial_quickstart.rpy:420
+translate chinese choice1_done_664fe702:
+
+    # e "Similarly, picking the second choice jumps us to choice1_no, which also runs two lines of script."
+    e ""
+
+# game/tutorial_quickstart.rpy:422
+translate chinese choice1_done_31d12b1e:
+
+    # e "The lines beginning with the dollar sign are lines of python code, which are used to set a flag based on the user's choice."
+    e ""
+
+# game/tutorial_quickstart.rpy:424
+translate chinese choice1_done_88398d3e:
+
+    # e "The flag is named menu_flag, and it's set to True or False based on the user's choice. The if statement can be used to test a flag, so the game can remember the user's choices."
+    e ""
+
+# game/tutorial_quickstart.rpy:432
+translate chinese choice1_done_2828dbfc:
+
+    # e "For example, I remember that you plan to use menus in your game."
+    e ""
+
+# game/tutorial_quickstart.rpy:436
+translate chinese choice1_done_503786e4:
+
+    # e "For example, I remember that you're planning to make a kinetic novel, without menus."
+    e ""
+
+# game/tutorial_quickstart.rpy:441
+translate chinese choice1_done_819e234a:
+
+    # e "Here's an example that shows how we can test a flag, and do different things if it is true or not."
+    e ""
+
+# game/tutorial_quickstart.rpy:445
+translate chinese choice1_done_47fa2268:
+
+    # e "Although we won't demonstrate it here, Ren'Py supports making decisions based on a combinations of points, flags, and other factors."
+    e ""
+
+# game/tutorial_quickstart.rpy:447
+translate chinese choice1_done_826a600b:
+
+    # e "One of Ren'Py's big advantages is the flexibility using a scripting language like Python provides us. It lets us easily scale from kinetic novels to complex simulation games."
+    e ""
+
+# game/tutorial_quickstart.rpy:449
+translate chinese choice1_done_c2efd260:
+
+    # e "We look forward to seeing what you make with it."
+    e ""
+
+translate chinese strings:
+
+    # game/tutorial_quickstart.rpy:377
+    old "Yes, I do."
+    new ""
+
+    # game/tutorial_quickstart.rpy:377
+    old "No, I don't."
+    new ""
+
+    # game/tutorial_quickstart.rpy:5
+    old "Lucy"
+    new ""
+

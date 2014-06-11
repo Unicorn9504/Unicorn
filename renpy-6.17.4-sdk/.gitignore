@@ -1,0 +1,7 @@
+*.rpyc
+*.rpyb
+*.log
+*.txt
+*.save
+tmp
+saves
